@@ -27,7 +27,10 @@ app.use("/api/cart",cartRouter)
 app.use("/api/order",orderRouter)
 
 app.get('/', (req, res) => {
-    res.send('api working')
+    res.send({
+        activeStatus:true,
+        error:false
+    })
 })
 app.listen(port,()=>{
   console.log(`server started on http://localhost:${port}`)
