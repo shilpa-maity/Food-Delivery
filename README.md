@@ -41,18 +41,25 @@ A full-stack food delivery application built with the MERN stack (MongoDB, Expre
 
     Below are some screenshots showcasing the app features and UI:
 # Home Page :
-![Screenshot (75)](https://github.com/user-attachments/assets/9f5a41df-be09-4430-b1bb-6d225b5fc0cd)
+![Screenshot (75)](https://github.com/user-attachments/assets/1484cab6-84c3-46ec-8915-c58b309fcdcf)
+
 
 <hr/>
 
 # Menu Page:
-![Screenshot (76)](https://github.com/user-attachments/assets/714aa8f6-e8af-4d81-bde8-fae4f1619f41)
+![Screenshot (76)](https://github.com/user-attachments/assets/ac6e2901-49d0-4a0f-8b54-d57a50bfad95)
+
+
 <hr/>
 
 # Top Dishes Page:
-![Screenshot (77)](https://github.com/user-attachments/assets/d029aa7e-9732-4136-88b2-69b188c5be3c)
+![Screenshot (77)](https://github.com/user-attachments/assets/c066bbde-5a82-4bd5-b69b-7b0d667724f3)
+
+
 <hr/>
 
 # Mobile app & Contact Us Page :
-![Screenshot (78)](https://github.com/user-attachments/assets/b9ab9e1d-121c-42ee-90c0-16ddb36f735a)
+![Screenshot (78)](https://github.com/user-attachments/assets/bee15067-6bf1-489c-9b23-ab0974254fd5)
+
+
 <hr/>
